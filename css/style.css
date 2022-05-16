@@ -2460,7 +2460,15 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 }
 
 .projectmanagerpicture {
-  border-radius: 50%;
+  width: 500px;
+  height: 350px;
+  background: pink;
+  -webkit-transform: skew(20deg);
+  -moz-transform: skew(20deg);
+  -o-transform: skew(20deg);
+  transform: skew(0deg);
+  transform: rotate(20);
+  margin-left: 25px;
 }
 
 .projectmanager h1 {
@@ -2490,7 +2498,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 .projectmanager p,
 .projectmanager blockquote {
   margin-top: 30px;
-  font-style: italic;
+
 }
 
 .projectmanager li:hover,
