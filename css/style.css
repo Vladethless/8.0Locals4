@@ -168,7 +168,12 @@ body.dark .portfolio .caption h3,
 body.dark .portfolio .nav-pills li {
   color: #eee;
 }
-
+.badges-counter{
+  font-weight: 800;
+    padding-right: 3px;
+    color: #ffb400;
+    font-size: 48px;
+}
 body.dark.boxed .wrapper,
 body.dark .wrapper,
 body.dark ul.nav li.dropdown ul.dropdown-menu,
@@ -2708,7 +2713,6 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 }
 
 .testimonials #quote-carousel p {
-  font-style: italic;
   color: #fff;
 }
 
@@ -3268,7 +3272,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
   font-size: 48px;
 }
 
-.fact-badges h2 strong {
+.fact-badges p strong {
   font-weight: 800;
   padding-right: 3px;
 }
@@ -3283,11 +3287,20 @@ body.dark .header.header-fixed .logo a img.logo-dark {
   font-weight: 400;
 }
 
-.facts h4 {
+.facts .txt {
   margin: 25px 0;
   font-weight: 500;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
 }
-
+.name{
+  color: #ffb400 !important;
+  margin: 20px 0 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
 
 /* Call To Action
 ---------------------------------------- */
@@ -5505,7 +5518,9 @@ h4.panel-title a.collapsed:before {
 .shop-cart .secondary-button:active {
   color: #fff;
 }
-
+.black{
+  background-color: #242424;;
+}
 .shop-cart .secondary-button.update-cart {
   float: right;
 }
@@ -6125,10 +6140,11 @@ h4.panel-title a.collapsed:before {
   margin-bottom: 18px;
 }
 
-.facts-footer>div h5 {
+.facts-footer>div p {
   font-size: 30px;
   font-weight: 500;
   margin: 15px 0 12px;
+  color: #ffb400;
 }
 
 .facts-footer>div span {
