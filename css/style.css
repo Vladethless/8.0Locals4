@@ -389,8 +389,9 @@ body.dark .info-map-boxes-item:before {
   background-color: #343434;
 }
 
-body.dark .info-map-boxes-item h1 {
+body.dark .info-map-boxes-item h2 {
   border-bottom: 1px solid #444;
+  font-size: 24px;
 }
 
 body.dark .gmap_container {
@@ -2279,10 +2280,13 @@ body.dark .header.header-fixed .logo a img.logo-dark {
   margin-top: -10px;
 }
 
-.about .about-content .full-image-overlay h3 {
+.about .about-content .full-image-overlay h2 {
   text-transform: Capitalize;
   color: #ffffff;
   margin-top: 20px;
+  font-size: 24px;
+  line-height: 24px;
+  text-transform: uppercase;
 }
 
 .about .about-content .about-right-side img {
