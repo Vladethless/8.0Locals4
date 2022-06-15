@@ -2457,7 +2457,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 
 .projectmanager {
   color: #fff;
-  background-image: url("http://via.placeholder.com/1600x650");
+  background-image: url("../img/about_6.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -2689,7 +2689,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 ---------------------------------------- */
 
 .testimonials {
-  background: url("http://via.placeholder.com/1600x650");
+  background: url("../img/index_7.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -3255,7 +3255,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 ---------------------------------------- */
 
 .facts {
-  background: url("http://via.placeholder.com/1600x650");
+  background: url("../img/index_6.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -4626,7 +4626,7 @@ body.blog-page article .comments-form .custom-button:before {
 
 .videopromotion {
   color: #fff;
-  background: url("http://via.placeholder.com/1600x650");
+  background: url("/img/index_5.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -4914,14 +4914,14 @@ ul.bxslider img {
 /* Banner */
 
 .banner {
-  background-image: url('http://via.placeholder.com/1920x624');
+  background-image: url('../img/about_1.jpg');
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
 }
 
 .banner.banner-blog-post {
-  background-image: url('http://via.placeholder.com/1920x572');
+  background-image: url('../img/all_bg.jpg');
   background-size: initial;
 }
 
